@@ -1,0 +1,11 @@
+.navbar-wrapper{
+    display: flex;
+    height: 60px;
+    border-bottom: 2px solid #aaa;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-wrapper .btn-group{
+    background-color: orange;
+}
